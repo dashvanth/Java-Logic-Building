@@ -6,6 +6,12 @@ Welcome to the Java Daily Practice repository! Here, I will be sharing my daily 
 
 The purpose of this repository is to document my daily practice journey and track my progress as I delve deeper into Java programming. By regularly working on practice problems, I aim to reinforce my knowledge, explore new concepts, and enhance my problem-solving capabilities.
 
+## Resources Used
+
+Here are the Websites or resources that i used to practice the problems,
+- W3 Resource.
+  - [Click here to visit](https://www.w3resource.com/java-exercises/)
+
 ## Topics
 
 The problems in this repository cover a wide range of Java topics,
